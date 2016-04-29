@@ -1,8 +1,8 @@
-# Agenda of web development and design shops around Saint-Étienne
+# List of web development and design shops around Saint-Étienne
 
 The [list](webshops.csv).
 
-In order to help the web developers and designers to find each other, we maintain a [list of Companies](webshops.csv).
+In order to help the web developers and designers to find each other, we maintain a [list of companies](webshops.csv).
 
 :heart: the web.
 
